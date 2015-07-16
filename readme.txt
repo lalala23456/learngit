@@ -4,3 +4,5 @@ Git is free software distributed under the GPL.
 git checkout -- file
 
 Creating a new branch is quick and simple.
+
+测试新式方法。
